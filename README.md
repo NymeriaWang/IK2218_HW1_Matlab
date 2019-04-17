@@ -1,0 +1,2 @@
+# IK2218_HW1_Matlab
+This exercise aims to give some understanding in the following parts of the general radio communication system seen in Figure l. • The channel • Channel estimation • Equalization • Channel decoding The other parts of the system are modelled in a simple fashion or are completely left out of this exercise. For example there is no source coding present at all, which explains the length of the signals that you will work with. Furthermore we use the simplest form of binary antipodal signalling available and ignore phase shifts introduced by the channels
